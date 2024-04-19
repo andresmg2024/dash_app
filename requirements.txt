@@ -3,4 +3,4 @@ gunicorn
 plotly==5.20.0
 dash-tools
 pandas==2.2.1
-dash_bootstrap_component
+dash_bootstrap_components
